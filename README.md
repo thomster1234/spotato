@@ -1,0 +1,2 @@
+# spotato
+Spotify playlist generator
